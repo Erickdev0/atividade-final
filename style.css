@@ -1,0 +1,72 @@
+
+  body {
+     font-family: Arial, sans-serif; 
+     background-color: rgb(20, 19, 19);
+     color: rgb(255, 255, 255);
+     height: 900px;
+    }
+
+  .container {
+     width: 80%; margin: auto; 
+    }
+
+  header {
+     text-align: center; 
+     
+    }
+
+  .lead-form { 
+    background-color: #ac1717; padding: 30px; margin-top: 20px; 
+}
+
+  .offer-cards { 
+    display: flex; justify-content: space-around; margin-top: 20px; 
+}
+
+  .card { background-color: #353434; padding: 20px; width: 30%; height: 400px; 
+ }
+
+  .card button { background-color: #ff8800; color: rgb(20, 19, 19); padding: 10px 20px; border: none; cursor: pointer;
+    margin-left: 120px; margin-top: 11px;
+ }
+
+
+h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+span{
+     color: #ff8800;
+}
+
+img{
+    height: 10%;
+    width: 10%;
+}
+
+.foto{
+   height: 65%;
+   width:75%;
+   margin-left: 50px;
+}
+
+.foto2{
+    height: 60%;
+    width:75%;
+    margin-left: 50px;
+ }
+
+ .foto3{
+    height: 50%;
+    width:75%;
+    margin-left: 50px;
+ }
